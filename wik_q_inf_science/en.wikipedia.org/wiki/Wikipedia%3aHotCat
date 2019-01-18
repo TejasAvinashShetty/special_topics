@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia:HotCat - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:HotCat","wgTitle":"HotCat","wgCurRevisionId":852527069,"wgRevisionId":852527069,"wgArticleId":16257387,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia move-protected project pages","Wikipedia scripts","Wikipedia categorization tools"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wikipedia:HotCat","wgRelevantArticleId":16257387,"wgRequestId":"W9H07gpAMFcAAAfJ1@8AAABM","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3396208","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.26"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wikipedia:HotCat"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikipedia_HotCat rootpage-Wikipedia_HotCat skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#move" title="This page is move-protected."><img alt="Page move-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/5/58/Padlock-olive.svg/20px-Padlock-olive.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/58/Padlock-olive.svg/30px-Padlock-olive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/58/Padlock-olive.svg/40px-Padlock-olive.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Wikipedia:HotCat</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"WP:HC" redirects here. For the page on the Hovercards beta feature, see <a href="https://www.mediawiki.org/wiki/Beta_Features/Hovercards" class="extiw" title="mw:Beta Features/Hovercards">mw:Beta Features/Hovercards</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r856588462">.mw-parser-output .module-shortcutboxplain{float:right;border:1px solid #aaa;background:#fff;margin:0 0 0 1em;padding:.3em .6em .2em .6em;text-align:center;font-size:85%;font-weight:bold}.mw-parser-output .module-shortcutlist{display:inline-block;border-bottom:1px solid #aaa;margin-bottom:.2em;font-weight:normal}.mw-parser-output .module-shortcutanchordiv{position:relative;top:-3em}</style><div class="module-shortcutanchordiv"><span id="WP:HOTCAT"></span><span id="WP:HC"></span></div><div class="module-shortcutboxplain plainlist noprint" role="note"><div class="module-shortcutlist"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcuts</a></div><ul><li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:HOTCAT&amp;redirect=no">WP:HOTCAT</a></span></li><li><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:HC&amp;redirect=no">WP:HC</a></span></li></ul></div>
+<table class="plainlinks ombox ombox-content" role="presentation"><tbody><tr><td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></td><td class="mbox-text" style="text-align: text-align:center;;"><b>Warning: You take full responsibility for any action you perform</b> using HotCat. You must <b>understand <a href="/wiki/Wikipedia:Policies_and_guidelines" title="Wikipedia:Policies and guidelines">Wikipedia policies</a></b> and use this tool within these policies, or risk being <a href="/wiki/Wikipedia:Blocking_policy" title="Wikipedia:Blocking policy"><b>blocked from editing</b></a>.</td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:502px;"><a href="/wiki/File:HotCat.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HotCat.png/500px-HotCat.png" width="500" height="156" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HotCat.png/750px-HotCat.png 1.5x, //upload.wikimedia.org/wikipedia/commons/c/c7/HotCat.png 2x" data-file-width="951" data-file-height="297" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:HotCat.png" class="internal" title="Enlarge"></a></div>An example of HotCat in use, in this case attempting to predict the next word.</div></div></div>
+<p><b>HotCat</b> is a <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> program that helps <a href="/wiki/Wikipedia:REGISTER" class="mw-redirect" title="Wikipedia:REGISTER">registered users</a> easily remove, change, and add <a href="/wiki/Wikipedia:CAT" class="mw-redirect" title="Wikipedia:CAT">categories</a> to Wikipedia pages. It has a suggestions list that will propose existing categories for auto-completion.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#How_to_enable/disable"><span class="tocnumber">1</span> <span class="toctext">How to enable/disable</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#How_to_use"><span class="tocnumber">2</span> <span class="toctext">How to use</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Removing_a_single_category"><span class="tocnumber">2.1</span> <span class="toctext">Removing a single category</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Changing_a_category"><span class="tocnumber">2.2</span> <span class="toctext">Changing a category</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Adding_a_category"><span class="tocnumber">2.3</span> <span class="toctext">Adding a category</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Input_box"><span class="tocnumber">2.4</span> <span class="toctext">Input box</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Making_more_than_one_category_change"><span class="tocnumber">2.5</span> <span class="toctext">Making more than one category change</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Advanced_usage_tips"><span class="tocnumber">3</span> <span class="toctext">Advanced usage tips</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Avoid_auto_saving"><span class="tocnumber">3.1</span> <span class="toctext">Avoid auto saving</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Sort_keys"><span class="tocnumber">3.2</span> <span class="toctext">Sort keys</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Easy_categorizing_to_child_or_parent_categories"><span class="tocnumber">3.3</span> <span class="toctext">Easy categorizing to child or parent categories</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Search_engines"><span class="tocnumber">3.4</span> <span class="toctext">Search engines</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#User_configuration"><span class="tocnumber">3.5</span> <span class="toctext">User configuration</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#History"><span class="tocnumber">4</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Compatibility"><span class="tocnumber">5</span> <span class="toctext">Compatibility</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Userboxes"><span class="tocnumber">6</span> <span class="toctext">Userboxes</span></a></li>
+</ul>
+</div>
+
+<h2><span id="How_to_enable.2Fdisable"></span><span class="mw-headline" id="How_to_enable/disable">How to enable/disable</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=1" title="Edit section: How to enable/disable">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>You must be logged in to use HotCat.
+</p><p>To turn HotCat on or off, first make sure you are logged in. Then, click on "Preferences" in the upper-right hand corner, go to the "Gadgets" tab (or use <a href="/wiki/Special:Preferences#mw-prefsection-gadgets" title="Special:Preferences">this link</a>), and scroll down to the "Editing" section. Check the box near <i>HotCat</i> to enable it. Scroll down to the bottom of the page and click <kbd class="nowrap button" title="This is not a clickable button; it illustrates the button one should find." style="padding:.2em .6em; border:1px solid; border-color:#AAA #555 #555 #AAA; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; background-color: #F2F2F2; color: #000; background-image: -moz-linear-gradient(top, #FCFCFC, #E0E0E0); background-image: -o-linear-gradient(top, #FCFCFC, #E0E0E0); background-image: -webkit-linear-gradient(top, #FCFCFC, #E0E0E0); background-image: linear-gradient(to bottom, #FCFCFC, #E0E0E0); font-family:sans-serif;">Save</kbd>. You will get a "Your preferences have been saved" message. You can now navigate back to the page you started from; you may need to reload the page you were viewing or <a href="/wiki/Wikipedia:BYPASS" class="mw-redirect" title="Wikipedia:BYPASS">bypass your cache</a>.
+</p><p>To disable, the instructions are similar to enabling it except that the box near <i>HotCat</i> has to be unchecked.
+</p>
+<h2><span class="mw-headline" id="How_to_use">How to use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=2" title="Edit section: How to use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Whenever a page is loaded, HotCat looks for the category bar. If there are visible categories, it adds links to easily remove, change or add categories. This appears at the very bottom of the page:
+</p><p><a href="/wiki/File:HotCat_enwp_Category_bar.png" class="image" title="A category bar as modified by HotCat"><img alt="A category bar as modified by HotCat" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/HotCat_enwp_Category_bar.png/800px-HotCat_enwp_Category_bar.png" width="800" height="58" srcset="//upload.wikimedia.org/wikipedia/commons/0/08/HotCat_enwp_Category_bar.png 1.5x" data-file-width="984" data-file-height="71" /></a>
+</p><p>The new links are:
+</p>
+<ul><li>"(−)" after a category: when clicked, the category is automatically <a href="#Removing_a_single_category">removed</a>.</li>
+<li>"(±)" after a category: when clicked, an input field to <a href="#Changing_a_category">change this category</a> is opened.</li>
+<li>"(+)" at the end of the list of categories: when clicked, an input field to <a href="#Adding_a_category">add a category</a> is opened.</li>
+<li>"(+<sup>+</sup>)" at the front: when clicked, enters <a href="#Making_more_than_one_category_change">multi-change mode</a>, allowing modifying more than one category.</li></ul>
+<p>If HotCat can detect that a certain category is not in the page text itself but was transcluded onto the page from a template or other transclusion, it will <i>not</i> add these links. Only categories that <i>are</i> present in the wikitext of the page itself can be modified through HotCat.
+</p>
+<h3><span class="mw-headline" id="Removing_a_single_category">Removing a single category</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=3" title="Edit section: Removing a single category">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>To remove a category, simply click the "(−)" link next to the category name. If the page does indeed contain this category, HotCat will remove it automatically. It will
+</p>
+<ol><li>open a new window or tab in your browser with the current page opened for editing,</li>
+<li><i>hide</i> the whole edit form, so that you cannot edit,</li>
+<li>edit the page to remove the category, and</li>
+<li>save the page.</li></ol>
+<h3><span class="mw-headline" id="Changing_a_category">Changing a category</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=4" title="Edit section: Changing a category">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>To change a category, click the "(±)" link next to the category name. This will open the <a href="#Input_box">input box</a> where you can enter a new category name.
+</p>
+<h3><span class="mw-headline" id="Adding_a_category">Adding a category</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=5" title="Edit section: Adding a category">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>To add a category, click the "(+)" link at the end of the category line. This will open the <a href="#Input_box">input box</a> where you can enter a new category name.+
+</p>
+<h3><span class="mw-headline" id="Input_box">Input box</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=6" title="Edit section: Input box">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:HotCat_Input_Box_plain.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/HotCat_Input_Box_plain.png/250px-HotCat_Input_Box_plain.png" width="250" height="17" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/a/a4/HotCat_Input_Box_plain.png 1.5x" data-file-width="339" data-file-height="23" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:HotCat_Input_Box_plain.png" class="internal" title="Enlarge"></a></div>The input box of HotCat</div></div></div>
+<p>The input box of HotCat is very simple: a text field to enter the new category name, an indicator icon, and an "OK" and a "Cancel" button.
+</p><p>The indicator icon tells you whether or not the category name you've entered exists. A <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/P_no.svg/20px-P_no.svg.png" width="20" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/P_no.svg/30px-P_no.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/P_no.svg/40px-P_no.svg.png 2x" data-file-width="400" data-file-height="360" /> icon means that there is no such category yet. You can still add the category, but it will show up as a red link, and you should, after having added the category, click that red link and enter a brief description and parent categories to this new category. A <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/P_yes.svg/20px-P_yes.svg.png" width="20" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/P_yes.svg/30px-P_yes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/P_yes.svg/40px-P_yes.svg.png 2x" data-file-width="400" data-file-height="360" /> icon shows that there already is a category with the name you've entered.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:HotCat_suggestions.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HotCat_suggestions.png/250px-HotCat_suggestions.png" width="250" height="75" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HotCat_suggestions.png/375px-HotCat_suggestions.png 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e6/HotCat_suggestions.png 2x" data-file-width="408" data-file-height="122" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:HotCat_suggestions.png" class="internal" title="Enlarge"></a></div>HotCat's input box with a suggestion list</div></div></div>
+<p>When you start typing, HotCat will display a list of suggestions above or below the text input field. Clicking one of these suggestions will copy it into the text field. Double-clicking a suggestion is the same as clicking once and then clicking the "OK" button: HotCat will add the double-clicked suggestion automatically. The suggestion list is populated by the <a href="#Search_engines">search engine</a> chosen in the selector between the list and the text input field.
+</p><p>In the example shown here, we've entered "Alps of", and HotCat presents us with a list of possible completions. The first suggestion has already been copied into the text box, but the added text is selected, so that it will be overwritten when we keep on typing. Entering " S" reduces the suggestion list accordingly.
+</p><p>Clicking on "Alps of Switzerland" will then copy that into the text field and close the suggestion list (since there are no more suggestions, i.e., categories beginning with "Alps of Switzerland" as a prefix).
+</p><p>Clicking the "Cancel"-button would now abort the operation, clicking "OK" would tell HotCat to go on and add the chosen category.
+</p>
+<h3><span class="mw-headline" id="Making_more_than_one_category_change">Making more than one category change</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=7" title="Edit section: Making more than one category change">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:196px;"><a href="/wiki/File:HotCat_save_button.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/c/c0/HotCat_save_button.png" width="194" height="49" class="thumbimage" data-file-width="194" data-file-height="49" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:HotCat_save_button.png" class="internal" title="Enlarge"></a></div>In multi-change mode, category changes are saved only when the "save" button is clicked.</div></div></div>
+<p>The user interface of HotCat is minimalistic on purpose and geared towards making interactions simple and fast. When you just click on a "(−)" link to remove a category, the edit is executed right away, and likewise when you submit a single category addition or change.
+</p><p>Still HotCat fully supports changing more than one category at once. If you click the "(+<sup>+</sup>)" link at the beginning of the category line, HotCat will enter its multi-change mode. The "(+<sup>+</sup>)" link is replaced by a "save" button, and all changes you make from now on will be written to the page only when that button is clicked. Initially, this button may appear disabled. It is enabled only when there are indeed category changes that need saving.
+</p>
+<div style="clear:both;"></div>
+<p><a href="/wiki/File:HotCat_multimode.png" class="image" title="In multi-change mode, changes are reflected on the page view, but are saved only when the &quot;save&quot; button is clicked."><img alt="In multi-change mode, changes are reflected on the page view, but are saved only when the &quot;save&quot; button is clicked." src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/HotCat_multimode.png/800px-HotCat_multimode.png" width="800" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/3/37/HotCat_multimode.png 1.5x" data-file-width="1022" data-file-height="49" /></a>
+</p><p>This multi-change mode is also entered automatically if you have one category input box open and, while it is still open, add, change, or remove another category.
+</p><p>In multi-change mode, submitting a category change or removal will <i>not</i> perform the edit immediately. Instead, the change will only be reflected on the screen, allowing you to make more category changes. HotCat will add "(×)" links after each changed category. This is an "undo" link; it'll undo the last action on that category. Category removals are indicated by <s>striking through</s> the category name. HotCat will also highlight unsaved category changes by changing the background of the category link.
+</p><p>Once the "Save" button is clicked, HotCat will make all the changes, and then opens the page in an edit screen, showing the changes made. The changes are at that point not yet saved! Review the changes to make sure that the script did what you intended it to do, and then submit the edit like any other edit you'd make.
+</p><p>Note that while HotCat normally automatically submits single category changes, it will never do so when operating in multi-change mode. It will always open a screen showing the changes made, which you should review before submitting the edit manually.
+</p>
+<h2><span class="mw-headline" id="Advanced_usage_tips">Advanced usage tips</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=8" title="Edit section: Advanced usage tips">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Avoid_auto_saving">Avoid auto saving</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=9" title="Edit section: Avoid auto saving">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Normally HotCat automatically saves your edit. However, sometimes you might wish to go to the edit box instead to verify and then execute the save yourself. Instead of clicking OK, click OK while you have the modifier key pressed. On Windows computers this is the <a href="/wiki/Control_key" title="Control key">Ctrl key</a>, on Apple computers it should be the <a href="/wiki/Command_key" title="Command key">Command (⌘) key</a>.
+</p>
+<h3><span class="mw-headline" id="Sort_keys">Sort keys</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=10" title="Edit section: Sort keys">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>You can even give a sort key together with the category. Just type a vertical bar ("|") after the category, followed by the sort key under which the page shall be sorted within that category's list.
+</p>
+<ul><li>Input "Foo" will add a new category "Foo" without sort key, or change an existing category to "Foo", preserving the sort key.</li>
+<li>Input "Foo|Key" will add a new category "Foo" or change an existing category to "Foo", using the given sort key "Key" in both cases.</li>
+<li>Input "Foo|" (with a trailing vertical bar) will add a new category "Foo" without sort key, or change an existing category to "Foo", removing any sort key the changed category might have had.</li></ul>
+<p>Note that, to remove an existing sortkey, you should change "Foo|Key" to "Foo|". Changing it to "Foo" has no effect.
+</p>
+<h3><span class="mw-headline" id="Easy_categorizing_to_child_or_parent_categories">Easy categorizing to child or parent categories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=11" title="Edit section: Easy categorizing to child or parent categories">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Users who do a lot of category maintenance might want to enable the quick access links for categorizing to child or parent categories. To enable this add the following to <a href="/wiki/Special:MyPage/common.js" title="Special:MyPage/common.js">your JavaScript page</a>:
+</p>
+<div style="margin-left:3em;">
+<div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span><span class="nb">window</span><span class="p">.</span><span class="nx">hotcat_use_category_links</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
+</pre></div>
+</div>
+<p>(You may need to <a href="/wiki/MediaWiki:Clearyourcache" title="MediaWiki:Clearyourcache">make your browser re-load the JavaScript</a> after the change.)
+</p><p>The following controls will be added: 
+</p>
+<ul><li>"(↓)" after a category: when clicked, the input field is opened, and a list of available subcategories is displayed.</li>
+<li>"(↑)" after a category: when clicked, the input field is opened, and a list of available parent categories is shown.</li></ul>
+<p>Note that the "(↓)" and "(↑)" links are shown only for existing categories. Red-linked categories, i.e. non-existing categories, can have neither parent nor subcategories, and thus showing these links wouldn't make sense. Also note that it is possible that only the input box is shown when these links are clicked, but no list. That indicates that this category does not have parent categories or subcategories, respectively. See also "<a href="#Search_engines">Search engines</a>" below.
+</p>
+<h3><span class="mw-headline" id="Search_engines">Search engines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=12" title="Edit section: Search engines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Between the suggestion list and the text input field, there is a search engine selector to select the search method which populates the suggestion list. HotCat supports a number of search engines.
+</p><p>The MediaWiki servers offer two general ways to search for categories. The first is through the page list of the wiki. This list is always up to date, but is strictly alphabetic and also case-sensitive, so "similar" suggestions (for instance, suggesting "<a href="/w/index.php?title=Category:Bl%C3%A1hnj%C3%BAkur&amp;action=edit&amp;redlink=1" class="new" title="Category:Bláhnjúkur (page does not exist)">Bláhnjúkur</a>" when "Blahn" was entered) are not shown. The second search engine is the search <i>index</i> that is also used by the "search" box on all pages. It does find "similar" suggestions and is not case-sensitive, but as its index is updated only at intervals, it may not show newly created categories.
+</p><p>HotCat by default combines these two search engines to get the best of both worlds: similar suggestions <i>and</i> newly created categories. However, to do so, it must make two requests to the server. Normally, that's not a problem, but if it turns out to be too slow on a slow connection, you can use the engine selector to choose which search engine you want to use. It is also possible to <a href="#User_configuration">configure</a> which search engine HotCat should use by default.
+</p><p>In addition to these general searches, HotCat also provides two additional, more specialized search engines. A first one can be used to search for subcategories of the category given by the current input. A second one returns the parent categories of the category given by the current input. Both engines may return empty results, in which case no suggestion list is shown. (For instance, if the current input is a name of a non-existing category, or if a category has no subcategories). In this case, the search engine is automatically reset to the default search engine after the first non-deleting input.
+</p><p>Note that there is no way to "page" through a list of subcategories. The script just tries to get as many subcategories as it can (normally at most 500, the limits for administrators are somewhat higher). Subcategory queries can also be slow if a category contains many items (not just many subcategories), and the input field is made non-editable for the time of the request. If it doesn't become editable in reasonable time, just click cancel.
+</p>
+<dl><dd><small>For the technically inclined: the problem is that subcategory continuation queries appear not to work in the MediaWiki API. On the (hidden) category <a href="/w/index.php?title=Category:Media_with_locations&amp;action=edit&amp;redlink=1" class="new" title="Category:Media with locations (page does not exist)">Category:Media with locations</a>, the API returns (with a limit of 5000) only the first 1540 subcategories of more than 4800 that exist, and continuation queries seem to return no further subcategories at all. Related bug reports on this are <a href="https://bugzilla.wikimedia.org/show_bug.cgi?id=1211" class="extiw" title="bugzilla:1211">bugzilla:1211</a> and <a href="https://bugzilla.wikimedia.org/show_bug.cgi?id=23682" class="extiw" title="bugzilla:23682">bugzilla:23682</a>. Until this is fixed, there will be no paging through subcategories in HotCat.</small></dd></dl>
+<h3><span class="mw-headline" id="User_configuration">User configuration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=13" title="Edit section: User configuration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>You can adapt many of the aspects of HotCat. Please see its full <a href="https://commons.wikimedia.org/wiki/Help:Gadget-HotCat" class="extiw" title="commons:Help:Gadget-HotCat">documentation page on Wikimedia Commons</a>.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=14" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>HotCat was initially developed for <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> by <a href="https://commons.wikimedia.org/wiki/User:Magnus_Manske" class="extiw" title="commons:User:Magnus Manske">Magnus Manske</a> and later adapted and improved by many users, including, but not limited to <a href="/wiki/User:Lupo" title="User:Lupo">User:Lupo</a>, <a href="/wiki/User:Dschwen" title="User:Dschwen">User:Dschwen</a>, <a href="/wiki/User:TheDJ" title="User:TheDJ">User:TheDJ</a>, <a href="/wiki/User:Superm401" class="mw-redirect" title="User:Superm401">User:Superm401</a> and <a href="/wiki/User:Merlissimo" title="User:Merlissimo">User:Merlissimo</a>.
+</p><p>The version on English Wikipedia is the same as the <a href="https://commons.wikimedia.org/wiki/MediaWiki:Gadget-HotCat.js" class="extiw" title="commons:MediaWiki:Gadget-HotCat.js">version on Commons</a> but with a different default user configuration.
+</p>
+<h2><span class="mw-headline" id="Compatibility">Compatibility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=15" title="Edit section: Compatibility">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Safari 3 &amp; 4: Tested and fully working</li>
+<li>Safari 2: Has a non-harmful issue with displaying the "change" (±) link.</li>
+<li>Firefox 2, 3, 16.0.2: Tested and fully working</li>
+<li>IE 6, 7 &amp; 8: Tested and fully working</li>
+<li>Google Chrome: Tested and fully working</li>
+<li>Opera: Tested and fully working</li></ul>
+<p>It is also tested and confirmed to be working in combination with <a href="/wiki/Wikipedia:Tools/Navigation_popups" title="Wikipedia:Tools/Navigation popups">Navigation popups</a>, <a href="/wiki/User:Cacycle/wikEd" title="User:Cacycle/wikEd">wikEd</a> and the modern skin.
+</p>
+<h2><span class="mw-headline" id="Userboxes">Userboxes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit&amp;section=16" title="Edit section: Userboxes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table style="background: transparent;">
+<tbody><tr>
+<th style="text-align: left;">Code
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td>{{<a href="/wiki/User:Scarce/Userboxes/HotCat" title="User:Scarce/Userboxes/HotCat">User:Scarce/Userboxes/HotCat</a>}}
+</td>
+<td><div class="wikipediauserbox" style="float:left;border:3px solid #464646;margin:1px;width:234px"><table role="presentation" style="border-collapse:collapse;width:234px;margin-bottom:0;margin-top:0;background:#FF4040"><tbody><tr><td style="border:0;width:45px;height:45px;background:#ED9121;text-align:center;font-size:14pt;font-weight:bold;color:black;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:Nuvola_apps_package_toys_svg.svg" class="image"><img alt="Nuvola apps package toys svg.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Nuvola_apps_package_toys_svg.svg/32px-Nuvola_apps_package_toys_svg.svg.png" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Nuvola_apps_package_toys_svg.svg/48px-Nuvola_apps_package_toys_svg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Nuvola_apps_package_toys_svg.svg/64px-Nuvola_apps_package_toys_svg.svg.png 2x" data-file-width="128" data-file-height="128" /></a></td><td style="border:0;text-align:center;font-size:9pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle">This user uses <b><span style="font-size: larger"><a class="mw-selflink selflink">HotCat</a></span></b>.</td></tr></tbody></table></div>
+</td>
+<td><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/User:Scarce/Userboxes/HotCat&amp;hidelinks=1&amp;hideredirs=1">Usage</a></span>
+</td></tr>
+<tr>
+<td>{{<a href="/wiki/User:Cj005257/userbox/hotcat" title="User:Cj005257/userbox/hotcat">User:Cj005257/userbox/hotcat</a>}}
+</td>
+<td><div class="wikipediauserbox" style="float:left;border:1px solid darkorange;margin:1px;width:238px"><table role="presentation" style="border-collapse:collapse;width:238px;margin-bottom:0;margin-top:0;background:#FFE000"><tbody><tr><td style="border:0;width:45px;height:45px;background:#ED9900;text-align:center;font-size:14pt;font-weight:bold;color:black;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:Nuvola_apps_package_toys_svg.svg" class="image" title="Wikipedia:HotCat"><img alt="Wikipedia:HotCat" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Nuvola_apps_package_toys_svg.svg/45px-Nuvola_apps_package_toys_svg.svg.png" width="45" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Nuvola_apps_package_toys_svg.svg/68px-Nuvola_apps_package_toys_svg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Nuvola_apps_package_toys_svg.svg/90px-Nuvola_apps_package_toys_svg.svg.png 2x" data-file-width="128" data-file-height="128" /></a></td><td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle">This user uses <b><a class="mw-selflink selflink">HotCat</a></b> to work with categories.</td></tr></tbody></table></div>
+</td>
+<td><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/User:Cj005257/userbox/hotcat&amp;hidelinks=1&amp;hideredirs=1">Usage</a></span>
+</td></tr>
+<tr>
+<td>{{<a href="/wiki/Template:User_HotCat_only" title="Template:User HotCat only">Template:User HotCat only</a>}}
+</td>
+<td><div class="wikipediauserbox" style="float:left;border:3px solid #464646;margin:1px;width:234px"><table role="presentation" style="border-collapse:collapse;width:234px;margin-bottom:0;margin-top:0;background:#FF4040"><tbody><tr><td style="border:0;width:45px;height:45px;background:#ED9121;text-align:center;font-size:14pt;font-weight:bold;color:black;padding:0 1px 0 0;line-height:1.25em;vertical-align:middle"><a href="/wiki/File:Nuvola_apps_package_toys_svg.svg" class="image"><img alt="Nuvola apps package toys svg.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Nuvola_apps_package_toys_svg.svg/45px-Nuvola_apps_package_toys_svg.svg.png" width="45" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Nuvola_apps_package_toys_svg.svg/68px-Nuvola_apps_package_toys_svg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Nuvola_apps_package_toys_svg.svg/90px-Nuvola_apps_package_toys_svg.svg.png 2x" data-file-width="128" data-file-height="128" /></a></td><td style="border:0;text-align:left;font-size:8pt;padding:0 4px 0 4px;height:45px;line-height:1.25em;color:black;vertical-align:middle;text-align:center;">This user does not use automated or semi-automated editing tools other than <big><b><a class="mw-selflink selflink">HotCat</a></b></big></td></tr></tbody></table></div>
+</td>
+<td><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Template:User_HotCat_only&amp;hidelinks=1&amp;hideredirs=1">Usage</a></span>
+</td></tr>
+</tbody></table>
+<p>Also, there is the HotCat topicon. &#123;&#123;<a href="/wiki/Template:HotCat_topicon" title="Template:HotCat topicon">HotCat topicon</a>&#125;&#125;.
+</p><p>By using any of the above userboxes or topicon, a person can add their name into the <a href="/wiki/Category:Wikipedians_who_use_HotCat" title="Category:Wikipedians who use HotCat">List of Wikipedians who use HotCat</a>.
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Wikipedia_technical_help" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="text-align: center;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Wikipedia_technical_help" title="Template:Wikipedia technical help"><abbr title="View this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Wikipedia_technical_help" title="Template talk:Wikipedia technical help"><abbr title="Discuss this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wikipedia_technical_help&amp;action=edit"><abbr title="Edit this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Wikipedia_technical_help" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Directory#Technical_help" title="Help:Directory">Wikipedia technical help</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="text-align: center;"><div id="Get_personal_technical_help_at_the_Teahouse,_Help_desk,_Village_pump_(technical),_talk_pages_or_IRC."><b>Get personal technical help at <a href="/wiki/Wikipedia:Teahouse" title="Wikipedia:Teahouse">the Teahouse</a>, <a href="/wiki/Wikipedia:Help_desk" title="Wikipedia:Help desk">Help desk</a>, <a href="/wiki/Wikipedia:Village_pump_(technical)" title="Wikipedia:Village pump (technical)">Village pump (technical)</a>, <a href="/wiki/Help:Introduction_to_talk_pages/1" title="Help:Introduction to talk pages/1">talk pages</a> or <a href="/wiki/Wikipedia:IRC" title="Wikipedia:IRC">IRC</a>.</b></div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Wikipedia:FAQ/Technical" title="Wikipedia:FAQ/Technical">General technical<br />help</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Help:Editing" title="Help:Editing">Editing</a>
+<ul><li><a href="/wiki/Help:Edit_toolbar" title="Help:Edit toolbar">Edit toolbar</a></li>
+<li><a href="/wiki/Help:CharInsert" title="Help:CharInsert">CharInsert</a></li>
+<li><a href="/wiki/Help:Edit_conflict" title="Help:Edit conflict">Edit conflict</a></li>
+<li><a href="/wiki/Help:Reverting" title="Help:Reverting">Reverting</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:VisualEditor" title="Wikipedia:VisualEditor">VisualEditor</a>
+<ul><li><a href="/wiki/Wikipedia:VisualEditor/User_guide" title="Wikipedia:VisualEditor/User guide">User guide</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:How_to_create_a_page" title="Wikipedia:How to create a page">Create a page</a></li>
+<li><a href="/wiki/Help:Page_history" title="Help:Page history">Page history</a></li>
+<li><a href="/wiki/Help:Page_information" title="Help:Page information">Page information</a></li>
+<li><a href="/wiki/Wikipedia:Page_name" title="Wikipedia:Page name">Page name</a>
+<ul><li><a href="/wiki/Help:Page_name" title="Help:Page name">Introduction</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:Browser_notes" title="Wikipedia:Browser notes">Browser notes</a>
+<ul><li><a href="/wiki/Wikipedia:Keyboard_shortcuts" title="Wikipedia:Keyboard shortcuts">Keyboard shortcuts</a></li>
+<li><a href="/wiki/Wikipedia:Troubleshooting" title="Wikipedia:Troubleshooting">Troubleshooting</a></li>
+<li><a href="/wiki/Wikipedia:Bypass_your_cache" title="Wikipedia:Bypass your cache">Bypass cache</a></li></ul></li>
+<li><a href="/wiki/Help:Mobile_access" title="Help:Mobile access">Mobile access</a></li>
+<li><a href="/wiki/Help:Multilingual_support" title="Help:Multilingual support">Multilingual support</a></li>
+<li><a href="/wiki/Help:Special_characters" title="Help:Special characters">Special Characters</a>
+<ul><li><a href="/wiki/Help:Entering_special_characters" title="Help:Entering special characters">Entering</a></li></ul></li>
+<li><a href="/wiki/Help:Printing" title="Help:Printing">Printing</a></li>
+<li><a href="/wiki/Wikipedia:User_access_levels" title="Wikipedia:User access levels">User access levels</a></li>
+<li><a href="/wiki/Wikipedia:Software_notices" title="Wikipedia:Software notices">Software notices</a>
+<ul><li><a href="/wiki/Wikipedia:Editnotice" title="Wikipedia:Editnotice">Editnotice</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:IRC" title="Wikipedia:IRC">IRC</a>
+<ul><li><a href="/wiki/Wikipedia:IRC/Tutorial" title="Wikipedia:IRC/Tutorial">Tutorial</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Special:SpecialPages" title="Special:SpecialPages">Special page</a> related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Help:Special_page" title="Help:Special page">Special page help</a></li>
+<li><a href="/wiki/Help:Searching" title="Help:Searching">Searching</a>
+<ul><li><a href="/wiki/Help:Linksearch" title="Help:Linksearch">Linksearch</a></li></ul></li>
+<li><a href="/wiki/Help:Logging_in" title="Help:Logging in">Logging in</a>
+<ul><li><a href="/wiki/Help:Reset_password" title="Help:Reset password">Reset passwords</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:Notifications" title="Wikipedia:Notifications">Notifications/Echo</a>
+<ul><li><a href="/wiki/Wikipedia:Notifications/FAQ" title="Wikipedia:Notifications/FAQ">FAQ</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:Moving_a_page" title="Wikipedia:Moving a page">Moving a page</a>
+<ul><li><a href="/wiki/Wikipedia:Administrators%27_guide/Fixing_cut-and-paste_moves" title="Wikipedia:Administrators&#39; guide/Fixing cut-and-paste moves">Fixing cut-and-paste moves</a></li></ul></li>
+<li><a href="/wiki/Help:Watchlist" title="Help:Watchlist">Watching pages</a></li>
+<li><a href="/wiki/Help:User_contributions" title="Help:User contributions">User contributions</a></li>
+<li><a href="/wiki/Wikipedia:Emailing_users" title="Wikipedia:Emailing users">Emailing users</a></li>
+<li><a href="/wiki/Wikipedia:Random" title="Wikipedia:Random">Random pages</a></li>
+<li><a href="/wiki/Help:Log" title="Help:Log">Logs</a></li>
+<li><a href="/wiki/Help:What_links_here" title="Help:What links here">What links here</a></li>
+<li><a href="/wiki/Help:Related_changes" title="Help:Related changes">Related changes</a></li>
+<li><a href="/wiki/Help:Recent_changes" title="Help:Recent changes">Recent changes</a></li>
+<li><a href="/wiki/Wikipedia:Pending_changes" title="Wikipedia:Pending changes">Pending changes</a></li>
+<li><a href="/wiki/Wikipedia:Page_Curation/Help" title="Wikipedia:Page Curation/Help">Page Curation</a></li>
+<li><a href="/wiki/Help:Import" title="Help:Import">Page import</a></li>
+<li><a href="/wiki/Wikipedia:Edit_filter" title="Wikipedia:Edit filter">Edit filter</a></li>
+<li><a href="/wiki/Wikipedia:Tags" title="Wikipedia:Tags">Tags</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Wikitext" class="mw-redirect" title="Wikitext">Wikitext</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Help:Wikitext" title="Help:Wikitext">Wikitext main page</a>
+<ul><li><a href="/wiki/Help:Cheatsheet" title="Help:Cheatsheet">Cheatsheet</a></li></ul></li>
+<li><a href="/wiki/Help:Using_colours" title="Help:Using colours">Colours use</a></li>
+<li><a href="/wiki/Help:Columns" title="Help:Columns">Columns</a></li>
+<li><a href="/wiki/Wikipedia:Line-break_handling" class="mw-redirect" title="Wikipedia:Line-break handling">Line-break handling</a></li>
+<li><a href="/wiki/Help:List" title="Help:List">Lists</a></li>
+<li><a href="/wiki/Help:Magic_words" title="Help:Magic words">Magic words</a>
+<ul><li><a href="/wiki/Help:Magic_words_for_beginners" title="Help:Magic words for beginners">For beginners</a></li>
+<li><a href="/wiki/Help:Conditional_expressions" title="Help:Conditional expressions">Conditional expressions</a></li>
+<li><a href="/wiki/Help:Switch_parser_function" title="Help:Switch parser function">Switch parser function</a></li>
+<li><a href="/wiki/Help:Time_function" title="Help:Time function">Time function</a></li></ul></li>
+<li><a href="/wiki/Help:Redirect" title="Help:Redirect">Redirects</a></li>
+<li><a href="/wiki/Help:Section" title="Help:Section">Sections and TOCs</a></li>
+<li><a href="/wiki/Help:Table" title="Help:Table">Tables</a>
+<ul><li><a href="/wiki/Help:Introduction_to_tables_with_Wiki_Markup/1" title="Help:Introduction to tables with Wiki Markup/1">Introduction</a></li>
+<li><a href="/wiki/Help:Basic_table_markup" title="Help:Basic table markup">Basics</a></li>
+<li><a href="/wiki/Help:Conditional_tables" title="Help:Conditional tables">Conditional tables</a></li>
+<li><a href="/wiki/Help:Sorting" title="Help:Sorting">Sorting</a></li>
+<li><a href="/wiki/Help:Collapsing" title="Help:Collapsing">Collapsing</a></li>
+<li><a href="/wiki/Wikipedia:Advanced_table_formatting" title="Wikipedia:Advanced table formatting">Advanced table formatting</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Hyperlink" title="Hyperlink">Links</a> and <a href="/wiki/Data_comparison" class="mw-redirect" title="Data comparison">diffs</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Help:URL" title="Help:URL">URLs</a></li>
+<li><a href="/wiki/Help:Link" title="Help:Link">Links</a></li>
+<li><a href="/wiki/Help:Permanent_link" title="Help:Permanent link">Permanent link</a></li>
+<li><a href="/wiki/Help:Interwikimedia_links" title="Help:Interwikimedia links">Interwikimedia links</a></li>
+<li><a href="/wiki/Help:Interlanguage_links" title="Help:Interlanguage links">Interlanguage links</a></li>
+<li><a href="/wiki/Help:Link_color" title="Help:Link color">Link color</a></li>
+<li><a href="/wiki/Help:Pipe_trick" title="Help:Pipe trick">Pipe trick</a></li>
+<li><a href="/wiki/Help:Colon_trick" title="Help:Colon trick">Colon trick</a></li>
+<li><a href="/wiki/Help:Magic_links" title="Help:Magic links">Magic links</a></li>
+<li><a href="/wiki/Help:Diff" title="Help:Diff">Diffs</a>
+<ul><li><a href="/wiki/Wikipedia:Simplest_diff_guide" title="Wikipedia:Simplest diff guide">Simplest diff guide</a></li>
+<li><a href="/wiki/Wikipedia:Simple_diff_and_link_guide" title="Wikipedia:Simple diff and link guide">Simple diff and link guide</a></li>
+<li><a href="/wiki/Wikipedia:Complete_diff_and_link_guide" title="Wikipedia:Complete diff and link guide">Complete diff and link guide</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Media files: images,<br />videos and sounds</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Media_help" class="mw-redirect" title="Wikipedia:Media help">Media help</a></li>
+<li><a href="/wiki/Help:Options_to_hide_an_image" title="Help:Options to hide an image">Options to hide an image</a></li>
+<li><a href="/wiki/Wikipedia:Uploading_images" title="Wikipedia:Uploading images">Uploading images</a>
+<ul><li><a href="/wiki/Help:Introduction_to_images_with_Wiki_Markup/1" title="Help:Introduction to images with Wiki Markup/1">Introduction</a></li></ul></li>
+<li><a href="/wiki/Help:Files" title="Help:Files">Files</a>
+<ul><li><a href="/wiki/Wikipedia:Creation_and_usage_of_media_files" class="mw-redirect" title="Wikipedia:Creation and usage of media files">Creation and usage</a></li>
+<li><a href="/wiki/Wikipedia:Moving_files_to_Commons" title="Wikipedia:Moving files to Commons">Moving files to Commons</a></li></ul></li>
+<li><a href="/wiki/Help:Visual_file_markup" title="Help:Visual file markup">Visual file markup</a></li>
+<li><a href="/wiki/Wikipedia:Images" title="Wikipedia:Images">Images</a>
+<ul><li><a href="/wiki/Wikipedia:Preparing_images_for_upload" title="Wikipedia:Preparing images for upload">Preparing images for upload</a></li>
+<li><a href="/wiki/Wikipedia:Picture_tutorial" class="mw-redirect" title="Wikipedia:Picture tutorial">Picture tutorial</a></li>
+<li><a href="/wiki/Wikipedia:Extended_image_syntax" title="Wikipedia:Extended image syntax">Extended image syntax</a></li></ul></li>
+<li><a href="/wiki/Help:Gallery_tag" title="Help:Gallery tag">Gallery tag</a></li>
+<li><a href="/wiki/Wikipedia:Graphics_tutorials" title="Wikipedia:Graphics tutorials">Graphics tutorials</a>
+<ul><li><a href="/wiki/Wikipedia:Basic_bitmap_image_editing" title="Wikipedia:Basic bitmap image editing">Basic bitmap image editing</a></li>
+<li><a href="/wiki/Wikipedia:How_to_improve_image_quality" title="Wikipedia:How to improve image quality">How to improve image quality</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:Graphics_Lab/Resources" title="Wikipedia:Graphics Lab/Resources">Graphics Lab resources</a></li>
+<li><a href="/wiki/Help:Sound_file_markup" title="Help:Sound file markup">Sound file markup</a></li>
+<li><a href="/wiki/Wikipedia:SVG_help" title="Wikipedia:SVG help">SVG help</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Other graphics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Help:Family_trees" title="Help:Family trees">Family trees</a></li>
+<li><a href="/wiki/Wikipedia:Graphs_and_charts" title="Wikipedia:Graphs and charts">Graphs and charts</a>
+<ul><li><a href="/wiki/Wikipedia:How_to_create_charts_for_Wikipedia_articles" title="Wikipedia:How to create charts for Wikipedia articles">How to create</a></li>
+<li><a href="/wiki/Wikipedia:To_scale_charts" title="Wikipedia:To scale charts">To scale charts</a></li>
+<li><a href="/wiki/Help:Barchart" title="Help:Barchart">Barcharts</a></li></ul></li>
+<li><a href="/wiki/Help:Displaying_a_formula" title="Help:Displaying a formula">Math formula</a>
+<ul><li><a href="/wiki/Wikipedia:Mathematical_symbols" title="Wikipedia:Mathematical symbols">Math symbols</a></li>
+<li><a href="/wiki/Wikipedia:Rendering_math" title="Wikipedia:Rendering math">Rendering math</a></li>
+<li><a href="/wiki/Wikipedia:LaTeX_symbols" title="Wikipedia:LaTeX symbols">LaTeX symbols</a></li></ul></li>
+<li><a href="/wiki/Help:Score" title="Help:Score">Musical scores</a>
+<ul><li><a href="/wiki/Help:Musical_symbols" title="Help:Musical symbols">Musical symbols</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:Timeline" title="Wikipedia:Timeline">Timeline</a>
+<ul><li><a href="/wiki/Help:EasyTimeline_syntax" title="Help:EasyTimeline syntax">EasyTimeline syntax</a></li></ul></li>
+<li><a href="/wiki/Help:WikiHiero_syntax" title="Help:WikiHiero syntax">WikiHiero syntax</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Help:A_quick_guide_to_templates" title="Help:A quick guide to templates">Templates</a><br />and <a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a> modules</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Help:Template" title="Help:Template">Templates</a></li>
+<li><a href="/wiki/Wikipedia:Template_messages" title="Wikipedia:Template messages">Template messages</a></li>
+<li><a href="/wiki/Wikipedia:Citation_templates" title="Wikipedia:Citation templates">Citation templates</a></li>
+<li><a href="/wiki/Wikipedia:Transclusion" title="Wikipedia:Transclusion">Transclusion</a>
+<ul><li><a href="/wiki/Help:Labeled_section_transclusion" title="Help:Labeled section transclusion">Labeled section</a></li></ul></li>
+<li><a href="/wiki/Help:Substitution" title="Help:Substitution">Substitution</a></li>
+<li><a href="/wiki/Wikipedia:Advanced_template_coding" title="Wikipedia:Advanced template coding">Advanced template coding</a></li>
+<li><a href="/wiki/Wikipedia:Template_limits" title="Wikipedia:Template limits">Template limits</a></li>
+<li><a href="/wiki/Wikipedia:Template_sandbox_and_test_cases" title="Wikipedia:Template sandbox and test cases">Template sandbox and test cases</a></li>
+<li><a href="/wiki/Wikipedia:Template_documentation" title="Wikipedia:Template documentation">Template documentation</a></li>
+<li><a href="/wiki/Wikipedia:Purge" title="Wikipedia:Purge">Purge</a>
+<ul><li><a href="/wiki/Help:Job_queue" title="Help:Job queue">Job queue</a></li></ul></li>
+<li><a href="/wiki/Help:Lua" title="Help:Lua">Lua help</a></li>
+<li><a href="/wiki/Wikipedia:Lua" title="Wikipedia:Lua">Lua project</a>
+<ul><li><a href="/wiki/Wikipedia:Lua/To_do" title="Wikipedia:Lua/To do">To do</a></li>
+<li><a href="/wiki/Wikipedia:Lua/Resources" title="Wikipedia:Lua/Resources">Resources</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:Guide_to_Scribbling" title="Wikipedia:Guide to Scribbling">Guide to Scribbling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Wikipedia:Administration#Data_structure_and_development" title="Wikipedia:Administration">Data structure </a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Namespace" title="Wikipedia:Namespace">Namespaces</a></li>
+<li><a href="/wiki/Wikipedia:What_is_an_article%3F" title="Wikipedia:What is an article?">Main/Article</a></li>
+<li><a href="/wiki/Help:Talk_pages" title="Help:Talk pages">Talk namespaces</a>
+<ul><li><a href="/wiki/Help:Archiving_a_talk_page" title="Help:Archiving a talk page">Archiving</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:User_pages" title="Wikipedia:User pages">User</a>
+<ul><li><a href="/wiki/Wikipedia:User_page_design_center" title="Wikipedia:User page design center">User page design</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:Project_namespace" title="Wikipedia:Project namespace">Project/Wikipedia</a></li>
+<li><a href="/wiki/Help:Files" title="Help:Files">File</a>
+<ul><li><a href="/wiki/Help:File_description_page" title="Help:File description page">File description page</a></li></ul></li>
+<li><a href="/wiki/Help:MediaWiki_namespace" title="Help:MediaWiki namespace">MediaWiki</a>
+<ul><li><a href="/wiki/Wikipedia:Bug_reports_and_feature_requests" title="Wikipedia:Bug reports and feature requests">Bug reports and feature requests</a></li>
+<li><a href="/wiki/Help:System_message" title="Help:System message">System message</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:Template_namespace" title="Wikipedia:Template namespace">Template</a></li>
+<li><a href="/wiki/Wikipedia:Help_namespace" title="Wikipedia:Help namespace">Help</a></li>
+<li><a href="/wiki/Help:Category" title="Help:Category">Category</a></li>
+<li><a href="/wiki/Wikipedia:Portal_guidelines" title="Wikipedia:Portal guidelines">Portal</a></li>
+<li><a href="/wiki/Wikipedia:Books" title="Wikipedia:Books">Book</a></li>
+<li><a href="/wiki/Wikipedia:Drafts" title="Wikipedia:Drafts">Draft</a></li>
+<li><a href="https://www.mediawiki.org/wiki/Extension:TimedMediaHandler" class="extiw" title="mw:Extension:TimedMediaHandler">TimedText</a></li>
+<li><a href="/wiki/Wikipedia:Lua" title="Wikipedia:Lua">Module/Lua</a></li>
+<li><a href="/wiki/Help:Special_page" title="Help:Special page">Special</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/HTML" title="HTML">HTML</a> and <a href="/wiki/Cascading_Style_Sheets" title="Cascading Style Sheets">CSS</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Help:HTML_in_wikitext" title="Help:HTML in wikitext">HTML in wikitext</a></li>
+<li><a href="/wiki/Help:Markup_validation" title="Help:Markup validation">Markup validation</a></li>
+<li><a href="/wiki/Wikipedia:Span_tags" title="Wikipedia:Span tags">Span tags</a></li>
+<li><a href="/wiki/Help:Cascading_Style_Sheets" title="Help:Cascading Style Sheets">Cascading Style Sheets</a></li>
+<li><a href="/wiki/Wikipedia:Catalogue_of_CSS_classes" title="Wikipedia:Catalogue of CSS classes">Catalogue of CSS classes</a></li>
+<li><a href="/wiki/Help:Useful_styles" title="Help:Useful styles">Useful styles</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Microformats/classes" title="Wikipedia:WikiProject Microformats/classes">Classes used in microformats</a></li>
+<li><a href="/wiki/Wikipedia:Classes_in_Ambox" title="Wikipedia:Classes in Ambox">Ambox classes</a></li>
+<li><a href="/wiki/Wikipedia:Common.js_and_common.css" title="Wikipedia:Common.js and common.css">Common.js and common.css</a></li>
+<li><a href="/wiki/Help:User_CSS_for_a_monospaced_coding_font" class="mw-redirect" title="Help:User CSS for a monospaced coding font">User CSS for monospaced coding font</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Wikipedia:Customisation" title="Wikipedia:Customisation">Customisation</a> and tools</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Help:Preferences" title="Help:Preferences">Preferences</a></li>
+<li><a href="/wiki/Wikipedia:Skin" title="Wikipedia:Skin">Skins</a></li>
+<li><a href="/wiki/Wikipedia:Customizing_watchlists" title="Wikipedia:Customizing watchlists">Customizing watchlists</a>
+<ul><li><a href="/wiki/Help:Hide_Pages_in_Watchlist" title="Help:Hide Pages in Watchlist">Hide pages</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:Gadget" title="Wikipedia:Gadget">Gadgets</a></li>
+<li><a href="https://www.mediawiki.org/wiki/Beta_Features" class="extiw" title="mw:Beta Features">Beta Features</a></li>
+<li><a href="/wiki/Wikipedia:User_scripts" title="Wikipedia:User scripts">User scripts</a>
+<ul><li><a href="/wiki/Wikipedia:User_scripts/Guide" title="Wikipedia:User scripts/Guide">Guide</a></li>
+<li><a href="/wiki/Wikipedia:User_scripts/Techniques" title="Wikipedia:User scripts/Techniques">Techniques</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:Scripts" title="Wikipedia:Scripts">IRC Scripts</a></li>
+<li><a href="/wiki/Help:User_style" title="Help:User style">User styles</a></li>
+<li><a href="/wiki/Wikipedia:Tools" title="Wikipedia:Tools">Tools</a>
+<ul><li><a href="/wiki/Wikipedia:Tools/Navigation_shortcuts" title="Wikipedia:Tools/Navigation shortcuts">Navigation shortcuts</a></li>
+<li><a href="/wiki/Wikipedia:Tools/Browser_tools" title="Wikipedia:Tools/Browser tools">Browser tools</a></li>
+<li><a href="/wiki/Wikipedia:Tools/Alternative_browsing" title="Wikipedia:Tools/Alternative browsing">Alternative browsing</a></li>
+<li><a href="/wiki/Wikipedia:Tools/Editing_tools" title="Wikipedia:Tools/Editing tools">Editing tools</a></li>
+<li><a href="/wiki/Wikipedia:Tools/Optimum_tool_set" title="Wikipedia:Tools/Optimum tool set">Optimum tool set</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:Cleaning_up_vandalism/Tools" title="Wikipedia:Cleaning up vandalism/Tools">Cleaning up vandalism tools</a></li>
+<li><a href="/wiki/Help:Citation_tools" title="Help:Citation tools">Citation tools</a></li>
+<li><a href="/wiki/Wikipedia:Wikimedia_Cloud_Services" title="Wikipedia:Wikimedia Cloud Services">Wikimedia Cloud Services</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Automating editing</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Bots" title="Wikipedia:Bots">Bots</a>
+<ul><li><a href="/wiki/Wikipedia:Creating_a_bot" title="Wikipedia:Creating a bot">Creating</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:Twinkle" title="Wikipedia:Twinkle">Twinkle</a></li>
+<li><a class="mw-selflink selflink">HotCat</a></li>
+<li><a href="/wiki/Wikipedia:WPCleaner" title="Wikipedia:WPCleaner">WPCleaner</a></li>
+<li><a href="/wiki/Wikipedia:Igloo" title="Wikipedia:Igloo">igloo</a></li>
+<li><a href="/wiki/Wikipedia:AutoWikiBrowser" title="Wikipedia:AutoWikiBrowser">AutoWikiBrowser</a></li>
+<li><a href="/wiki/Wikipedia:Tools/Navigation_popups" title="Wikipedia:Tools/Navigation popups">Navigation popups</a></li>
+<li><a href="/wiki/Wikipedia:STiki" title="Wikipedia:STiki">STiki</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Articles_for_creation/Helper_script" title="Wikipedia:WikiProject Articles for creation/Helper script">AfC helper script</a></li>
+<li><a href="/wiki/Wikipedia:Huggle" title="Wikipedia:Huggle">Huggle</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="text-align: center;"><div>
+<ul><li><b>See also: <a href="/wiki/Category:Wikipedia_information_pages" title="Category:Wikipedia information pages">Category:Wikipedia information pages</a></b></li>
+<li><b><a href="/wiki/Category:Wikipedia_how-to" title="Category:Wikipedia how-to">Category:Wikipedia how-to</a></b><br />Further navigation at: <a href="/wiki/Template:Wikipedia_help_pages" title="Template:Wikipedia help pages">Help pages</a>
+<ul><li><a href="/wiki/Template:Administrators%27_guide" title="Template:Administrators&#39; guide">Administrators</a></li></ul></li>
+<li><a href="/wiki/Template:Wikipedia_template_messages" title="Template:Wikipedia template messages">Templates</a></li>
+<li><a href="/wiki/Template:Wikipedia_referencing" title="Template:Wikipedia referencing">Referencing</a>
+<ul><li><a href="/wiki/Template:Citation_metadata_navbox" title="Template:Citation metadata navbox">Citation metadata</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Accessibility/Navigation_menu" title="Wikipedia:WikiProject Accessibility/Navigation menu">Accessibility</a></li>
+<li><a href="/wiki/Template:Botnav" title="Template:Botnav">Bots</a></li>
+<li><a href="/wiki/Wikipedia:User_scripts/Navbox" title="Wikipedia:User scripts/Navbox">User scripts</a></li>
+<li><a href="/wiki/Template:Wikipedia_accounts" title="Template:Wikipedia accounts">Accounts</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1243
+Cached time: 20181023212813
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.321 seconds
+Preprocessor visited node count: 818/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 66007/2097152 bytes
+Template argument size: 1118/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 813/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.067/10.000 seconds
+Lua memory usage: 1.78 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  178.015      1 -total
+ 30.60%   54.470      1 Template:Pp-move
+ 20.15%   35.871      3 Template:Usbk
+ 13.29%   23.667      1 Template:Shortcut
+ 11.74%   20.893      1 Template:Wikipedia_technical_help
+ 10.21%   18.172      3 Template:Userbox
+  9.96%   17.729      1 Template:Tool_warning
+  9.59%   17.073      1 Template:Navbox
+  9.49%   16.890      1 User:Scarce/Userboxes/HotCat
+  8.98%   15.991      1 Template:Warning
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16257387-0!canonical and timestamp 20181023212813 and revision id 852527069
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:HotCat&amp;oldid=852527069">https://en.wikipedia.org/w/index.php?title=Wikipedia:HotCat&amp;oldid=852527069</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_scripts" title="Category:Wikipedia scripts">Wikipedia scripts</a></li><li><a href="/wiki/Category:Wikipedia_categorization_tools" title="Category:Wikipedia categorization tools">Wikipedia categorization tools</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_move-protected_project_pages" title="Category:Wikipedia move-protected project pages">Wikipedia move-protected project pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikipedia%3AHotCat" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikipedia%3AHotCat" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-project" class="selected"><span><a href="/wiki/Wikipedia:HotCat" title="View the project page [c]" accesskey="c">Project page</a></span></li><li id="ca-talk"><span><a href="/wiki/Wikipedia_talk:HotCat" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Wikipedia:HotCat">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikipedia:HotCat" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikipedia:HotCat" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:HotCat&amp;oldid=852527069" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:HotCat&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3396208" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikipedia%3AHotCat">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wikipedia%3AHotCat&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:HotCat&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:HotCat" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/Manual:HotCat" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://en.wikibooks.org/wiki/Help:Gadget-HotCat" hreflang="en">Wikibooks</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Help:Gadget-HotCat" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wiktionary"><a href="https://en.wiktionary.org/wiki/Help:Gadget-HotCat" hreflang="en">Wiktionary</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Beunantu:Gadget-HotCat" title="Beunantu:Gadget-HotCat – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%85%D8%B5%D9%86%D8%A7%D9%81_%D8%A7%D9%84%D9%81%D9%88%D8%B1%D9%8A" title="ويكيبيديا:المصناف الفوري – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%98%DC%9D%DC%A9%DC%9D%DC%A6%DC%95%DC%9D%DC%90:HotCat" title="ܘܝܩܝܦܕܝܐ:HotCat – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A6%B9%E0%A6%9F_%E0%A6%95%E0%A7%87%E0%A6%9F" title="ৱিকিপিডিয়া:হট কেট – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Wikipidiya:HotCat" title="Wikipidiya:HotCat – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/K%C3%B6m%C9%99k:Gadget-HotCat" title="Kömək:Gadget-HotCat – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A6%B9%E0%A6%9F%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F" title="উইকিপিডিয়া:হটক্যাট – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bjn"><a href="https://bjn.wikipedia.org/wiki/Patulung:HotCat" title="Patulung:HotCat – Banjar" lang="bjn" hreflang="bjn" class="interlanguage-link-target">Bahasa Banjar</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%8B%D1%8F:%D0%93%D0%B0%D0%B4%D0%B6%D1%8D%D1%82%D1%8B/HotCat" title="Вікіпедыя:Гаджэты/HotCat – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F:%D0%9F%D1%80%D1%8B%D0%BB%D0%B0%D0%B4%D1%8B/HotCat" title="Вікіпэдыя:Прылады/HotCat – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%B9%E0%A5%89%E0%A4%9F-%E0%A4%95%E0%A5%88%E0%A4%9F" title="विकिपीडिया:हॉट-कैट – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/N%C3%A1pov%C4%9Bda:HotCat" title="Nápověda:HotCat – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Hj%C3%A6lp:HotCat" title="Hjælp:HotCat – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Veahkki:Gadget-HotCat" title="Veahkki:Gadget-HotCat – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wikipedia:Helferlein/HotCat" title="Wikipedia:Helferlein/HotCat – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Wikipedija:Specialne_funkcije/HotCats" title="Wikipedija:Specialne funkcije/HotCats – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Vikipeedia:T%C3%B6%C3%B6riistad/HotCat" title="Vikipeedia:Tööriistad/HotCat – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CE%B9%CE%B1:HotCat" title="Βικιπαίδεια:HotCat – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Vikipedio:VarmaKato" title="Vikipedio:VarmaKato – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%87%D8%A7%D8%AA%E2%80%8C%DA%A9%D8%AA" title="ویکی‌پدیا:هات‌کت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Hj%C3%A1lp:HotCat" title="Hjálp:HotCat – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Projet:JavaScript/Notices/HotCatsMulti" title="Projet:JavaScript/Notices/HotCatsMulti – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Vikipedi:Ara%C3%A7lar/HotCat" title="Vikipedi:Araçlar/HotCat – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%B5%E0%AA%BF%E0%AA%95%E0%AA%BF%E0%AA%AA%E0%AB%80%E0%AA%A1%E0%AA%BF%E0%AA%AF%E0%AA%BE:HotCat" title="વિકિપીડિયા:HotCat – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li><li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:HotCat" title="विकिपीडिया:HotCat – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8F%84%EA%B5%AC/HotCat" title="위키백과:도구/HotCat – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8E%D5%AB%D6%84%D5%AB%D5%BA%D5%A5%D5%A4%D5%AB%D5%A1:%D5%80%D5%B8%D5%A9%D5%94%D5%A1%D5%A9" title="Վիքիպեդիա:ՀոթՔաթ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:HotCat" title="विकिपीडिया:HotCat – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Wikipedija:Specialne_funkcije/HotCats" title="Wikipedija:Specialne funkcije/HotCats – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Wikipedija:HotCat" title="Wikipedija:HotCat – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Aiuto:Accessori/HotCat" title="Aiuto:Accessori/HotCat – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A2%D7%96%D7%A8%D7%94:Gadget-HotCat" title="עזרה:Gadget-HotCat – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90:Gadget/HotCat" title="ვიკიპედია:Gadget/HotCat – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%82%D0%B5%D1%80/HotCat" title="Уикипедия:Гаджеттер/HotCat – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/W%C3%AEk%C3%AEpediya:HotCat" title="Wîkîpediya:HotCat – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Vikipedija:HotCat" title="Vikipedija:HotCat – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%AE%E0%A4%A6%E0%A5%8D%E0%A4%A6%E0%A4%A4:Gadget-HotCat" title="मद्दत:Gadget-HotCat – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%AA%E0%B5%80%E0%B4%A1%E0%B4%BF%E0%B4%AF:%E0%B4%B9%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D%E0%B4%95%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D" title="വിക്കിപീഡിയ:ഹോട്ട്കാറ്റ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%B9%E0%A5%89%E0%A4%9F%E0%A4%95%E0%A5%85%E0%A4%9F" title="विकिपीडिया:हॉटकॅट – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/Help:Gadget-HotCat" title="Help:Gadget-HotCat – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%B9%E0%A4%9F%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9F" title="विकिपीडिया:हटक्याट – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B5%E0%A8%BF%E0%A8%95%E0%A9%80%E0%A8%AA%E0%A9%80%E0%A8%A1%E0%A9%80%E0%A8%86:HotCat" title="ਵਿਕੀਪੀਡੀਆ:HotCat – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D9%88%D9%8A%DA%A9%D9%8A%D9%BE%D9%8A%DA%89%D9%8A%D8%A7:%DA%86%D9%BC%DA%A9%DB%90_%D9%88%DB%90%D8%B4%D9%86%D9%8A%D8%B2%DB%90" title="ويکيپيډيا:چټکې وېشنيزې – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Wikipedia:Narz%C4%99dzia/HotCat" title="Wikipedia:Narzędzia/HotCat – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Scripts/HotCat" title="Wikipédia:Scripts/HotCat – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Wikipedia:Gadget/HotCat" title="Wikipedia:Gadget/HotCat – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D1%96%D1%87:Gadget-HotCat" title="Поміч:Gadget-HotCat – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%8B/HotCat" title="Википедия:Гаджеты/HotCat – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%92%E0%B6%9A%E0%B7%92%E0%B6%B4%E0%B7%93%E0%B6%A9%E0%B7%92%E0%B6%BA%E0%B7%8F:HOTCAT" title="විකිපීඩියා:HOTCAT – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Wikip%C3%A9dia:HotCat" title="Wikipédia:HotCat – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Wikipedija:HotCat" title="Wikipedija:HotCat – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Pitulung:HotCat" title="Pitulung:HotCat – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Wikipedia:Pienoisohjelma/HotCat" title="Wikipedia:Pienoisohjelma/HotCat – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Wikipedia:Hotcat" title="Wikipedia:Hotcat – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE:%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AF%88%E0%AE%B5%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF" title="விக்கிப்பீடியா:விரைவுப்பகுப்பி – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Gadgets-HotCat" title="Википедия:Gadgets-HotCat – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B1%80%E0%B0%AA%E0%B1%80%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%BE:%E0%B0%B9%E0%B0%BE%E0%B0%9F%E0%B1%8D%E2%80%8C%E0%B0%95%E0%B1%87%E0%B0%9F%E0%B1%8D" title="వికీపీడియా:హాట్‌కేట్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%AE%E0%B8%AD%E0%B8%97%E0%B9%81%E0%B8%84%E0%B8%95" title="วิกิพีเดีย:ฮอทแคต – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B0:%D0%90%D0%B1%D0%B7%D0%BE%D1%80%D2%B3%D0%BE/HotCat" title="Википедиа:Абзорҳо/HotCat – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Vikipedi:Ara%C3%A7lar/HotCat" title="Vikipedi:Araçlar/HotCat – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%94%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%B8/HotCat" title="Вікіпедія:Додатки/HotCat – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%D9%BE%DB%8C%DA%88%DB%8C%D8%A7:%D9%81%D9%88%D8%B1%DB%8C_%D8%B2%D9%85%D8%B1%DB%81_%D8%A8%D9%86%D8%AF%DB%8C" title="ویکیپیڈیا:فوری زمرہ بندی – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/Wikipedia:HotCat" title="Wikipedia:HotCat – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Wikipedia:Haceti/HotCat" title="Wikipedia:Haceti/HotCat – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Wikipedia:%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%B7%A5%E5%85%B7/HotCat" title="Wikipedia:维基百科工具/HotCat – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%AE%E0%A4%A6%E0%A5%8D%E0%A4%A6%E0%A4%A4:Gadget-HotCat" title="मद्दत:Gadget-HotCat – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3396208#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 July 2018, at 16:20<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wikipedia:HotCat&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.321","ppvisitednodes":{"value":818,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":66007,"limit":2097152},"templateargumentsize":{"value":1118,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":813,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  178.015      1 -total"," 30.60%   54.470      1 Template:Pp-move"," 20.15%   35.871      3 Template:Usbk"," 13.29%   23.667      1 Template:Shortcut"," 11.74%   20.893      1 Template:Wikipedia_technical_help"," 10.21%   18.172      3 Template:Userbox","  9.96%   17.729      1 Template:Tool_warning","  9.59%   17.073      1 Template:Navbox","  9.49%   16.890      1 User:Scarce/Userboxes/HotCat","  8.98%   15.991      1 Template:Warning"]},"scribunto":{"limitreport-timeusage":{"value":"0.067","limit":"10.000"},"limitreport-memusage":{"value":1867949,"limit":52428800}},"cachereport":{"origin":"mw1243","timestamp":"20181023212813","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1252"});});</script>
+	</body>
+</html>
